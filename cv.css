@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: grey;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.pic {
+    width: 144px;
+    height: 180px;
+}
+
+ul li {
+    list-style: none;
+}
